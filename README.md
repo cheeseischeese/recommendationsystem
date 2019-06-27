@@ -1,5 +1,5 @@
 # recommendationsystem
-recommendation system for movies.
+A recommendation system for movies based on collabrative filtering system.
 
 ## Usage
 python
