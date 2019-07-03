@@ -9,13 +9,15 @@ A recommendation system for movies based on collabrative filtering system.
   Personally, I got interested in Collaborative filtering algorithm in Data mining lectures. So I need a typical project to pratise.
   In addotion, data exposion makes making choices more difficult. Instead of wasting time on various sites, I could just log in and voila! 10 recommended objects tailored to my taste.
 ## How should I develope this system?
-
+ The system is based on Cf alogritm to caculate the user preferrence. Basically, I will separate the dataset to trainingset and testing set. Analyzation on the testing result is also considered. (covered by python.)
+ I will also trying to figure out the reason why the recommended outcome and explain the protential reason.
+ 
   The system is based on the dataset provided by the GroupLens Research Project
 at the University of Minnesota.
-  This data set consists of:
-	* 100,000 ratings (1-5) from 943 users on 1682 movies. 
-	* Each user has rated at least 20 movies. 
-        * Simple demographic info for the users (age, gender, occupation, zip)
+   This data set consists of:
+	 * 100,000 ratings (1-5) from 943 users on 1682 movies. 
+	 * Each user has rated at least 20 movies. 
+         * Simple demographic info for the users (age, gender, occupation, zip)
 ##
 ---------------------
 ## 6/17/2019 
