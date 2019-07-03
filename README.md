@@ -39,9 +39,9 @@ Agreed Tasks:
 3. Verfy on hangouts.
 
 Completed Tasks:
-1. Set up repository 
-2. Understandings of the datasets 
-3. Complete the data preprocessing by using pandas. 
+1. Add project description in the readme
+2. Compute some basic statistics on the users dataframe
+3. Verfy on hangouts. 
 ##
 ---------------------
 ## 7/4/2019
