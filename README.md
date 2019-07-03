@@ -34,9 +34,9 @@ Completed Tasks:
 ## 6/27/2019 
 
 Agreed Tasks:
-1.Add project description in the readme
-2.Compute some basic statistics on the users dataframe
-3.Verfy on hangouts.
+1. Add project description in the readme
+2. Compute some basic statistics on the users dataframe
+3. Verfy on hangouts.
 
 Completed Tasks:
 1. Set up repository 
