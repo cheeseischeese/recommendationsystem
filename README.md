@@ -2,7 +2,7 @@
 A recommendation system for movies based on collabrative filtering system.
 
 ## What is this recommendation system for and what I will do in this project.
-  In today`s world, every customer is faced with multiple chocies in watching movies. Recommendation system is used to save customers` time when they are trying to make choices.
+  In todays world, every customer is faced with multiple chocies in watching movies. Recommendation system is used to save customers` time when they are trying to make choices.
   This recommednation system could recommend customer movies which based on what he or she has read and the most popluarly movies.
   I will also research on how and why this system will recommend some movies to users. 
 ## Why I choose this project?
@@ -19,7 +19,8 @@ at the University of Minnesota.
 ##
 ---------------------
 ## 6/17/2019 
-Agreement Tasks:
+
+Agreed Tasks:
 1. Set up repository 
 2. Understandings of the datasets 
 3. Complete the data preprocessing by using pandas. 
@@ -28,17 +29,20 @@ Completed Tasks:
 1. Set up repository 
 2. Understandings of the datasets 
 3. Complete the data preprocessing by using pandas. 
+##
 ---------------------
 ## 6/27/2019 
+
 Agreed Tasks:
-1.Add project description in the readme.
-2.Compute some basic statistics on the users dataframe.
+1.Add project description in the readme
+2.Compute some basic statistics on the users dataframe
 3.Verfy on hangouts.
 
-Completed Tasks.
-1.Add project description in the readme.
-2.Compute some basic statistics on the users dataframe.
-3.Verfy on hangouts.
+Completed Tasks:
+1. Set up repository 
+2. Understandings of the datasets 
+3. Complete the data preprocessing by using pandas. 
+##
 ---------------------
 ## 7/4/2019
 
