@@ -38,13 +38,20 @@ Completed Tasks:
 Agreed Tasks:
 1. Add project description in the readme
 2. Compute some basic statistics on the users dataframe
-3. Verfy on hangouts.
+3. Verify on hangouts.
 
 Completed Tasks:
 1. Add project description in the readme
 2. Compute some basic statistics on the users dataframe
-3. Verfy on hangouts. 
+3. Verify on hangouts. 
 ##
 ---------------------
 ## 7/4/2019
+Agreed Tasks:
+1. Describe the existing rating dataframe.
+2. Understand Matrix Factoraztion in recommedation system.
 
+Completed Tasks:
+1. Describe the existing rating dataframe.
+2. Understand Matrix Factoraztion in recommedation system.
+##
