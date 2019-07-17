@@ -55,3 +55,17 @@ Completed Tasks:
 1. Describe the existing rating dataframe.
 2. Understand Matrix Factoraztion in recommedation system.
 ##
+-------------------
+## 7/11/2019
+Agreed Tasks:
+1. Implementation of matrix factorization.
+2. Explaing stochatic gradient descent in MF.
+3. Compare the test result(MF & CB & Popularity). Using Recall, Precision,MAP
+4. Cold-start problem.
+
+--- Data Analysis ---
+1) Identify or hypothesize which patterns you are looking for in the data.
+- Example: The date of release? Or the topic?
+1.1) Explore which visualization or analysis would fit (e.g., compute std deviation in some features).
+##
+-------------------
