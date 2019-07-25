@@ -69,3 +69,14 @@ Agreed Tasks:
 1.1) Explore which visualization or analysis would fit (e.g., compute std deviation in some features).
 ##
 -------------------
+## 7/25/2019
+Agreed Tasks:
+1.Test result(MF & CB & Popularity). Using Recall, Precision,MAP
+2. Cold-start problem.
+3. Identify or hypothesize which patterns you are looking for in the data.
+
+Completed Tasks:
+1. Implementation of matrix factorization.
+2. Explaing stochatic gradient descent in MF.
+3. Implementation of Collaboative Filtering.
+##
