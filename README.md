@@ -71,9 +71,9 @@ Agreed Tasks:
 -------------------
 ## 7/25/2019
 Agreed Tasks:
-1.Test result(MF & CB & Popularity). Using Recall, Precision,MAP
-2. Cold-start problem.
-3. Identify or hypothesize which patterns you are looking for in the data.
+1. Test result(MF & CB & Popularity). Using Recall, Precision,MAP
+2. Identify or hypothesize which patterns you are looking for in the data.
+3. Cold-start problem.
 
 Completed Tasks:
 1. Implementation of matrix factorization.
