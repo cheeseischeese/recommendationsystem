@@ -1,4 +1,4 @@
-# recommendationsystem
+# Recommendation system on movies
 A recommendation system for movies based on collabrative filtering system.
 
 ## What is this recommendation system for and what I will do in this project.
