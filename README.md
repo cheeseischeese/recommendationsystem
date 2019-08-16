@@ -80,3 +80,14 @@ Completed Tasks:
 2. Explaing stochatic gradient descent in MF.
 3. Implementation of Collaboative Filtering.
 ##
+-------------------
+## 8/8/2019
+Agreed Tasks:
+1. Complete the index of the report
+2. Figure out influence of the evaluatuon by different parameters.
+
+Completed Tasks:
+1. Implementation evaluation of MRR(Mean reciprocal rank),P@K(precision at k),Average precision and MAP(Mean average precision)
+##
+-------------------
+
