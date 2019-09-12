@@ -90,4 +90,9 @@ Completed Tasks:
 1. Implementation evaluation of MRR(Mean reciprocal rank),P@K(precision at k),Average precision and MAP(Mean average precision)
 ##
 -------------------
+## 9/13/2019
+Completed Tasks:
+1. Improve user-based and item-based CF algoritm
 
+##
+-------------------
